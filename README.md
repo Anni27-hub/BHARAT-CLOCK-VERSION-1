@@ -1,2 +1,8 @@
-# BHARAT-CLOCK-VERSION-1
-A simple and visually appealing digital clock application built using React. This project displays India’s current time in real-time and serves as a beginner-friendly React project to practice components, hooks, and UI updates.The Bharat Clock is designed to show the current Indian Standard Time (IST) and update dynamically every second.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
